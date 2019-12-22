@@ -1,0 +1,17 @@
+﻿生成启动时间为 2019/9/21 15:49:43。
+     1>项目“F:\编程\潭州教育\草稿\test4\test4.3\test4.3.vcxproj”在节点 3 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt test4.3.c
+         test4.3.c
+     1>f:\编程\潭州教育\草稿\test4\test4.3\test4.3.c(10): error C2065: “x”: 未声明的标识符
+     1>f:\编程\潭州教育\草稿\test4\test4.3\test4.3.c(10): error C2065: “y”: 未声明的标识符
+     1>f:\编程\潭州教育\草稿\test4\test4.3\test4.3.c(10): error C3872: “0x2002”:  此字符不允许在标识符中使用
+     1>f:\编程\潭州教育\草稿\test4\test4.3\test4.3.c(10): error C2146: 语法错误: 缺少“;”(在标识符“  ”的前面)
+     1>f:\编程\潭州教育\草稿\test4\test4.3\test4.3.c(10): warning C4013: “  ”未定义；假设外部返回 int
+     1>f:\编程\潭州教育\草稿\test4\test4.3\test4.3.c(10): error C2064: 项不会计算为接受 889 个参数的函数
+     1>f:\编程\潭州教育\草稿\test4\test4.3\test4.3.c(10): fatal error C1903: 无法从以前的错误中恢复；正在停止编译
+     1>已完成生成项目“F:\编程\潭州教育\草稿\test4\test4.3\test4.3.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.14
