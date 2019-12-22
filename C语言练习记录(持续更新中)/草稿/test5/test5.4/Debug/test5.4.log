@@ -1,0 +1,21 @@
+﻿生成启动时间为 2019/9/29 21:36:07。
+     1>项目“F:\编程\潭州教育\草稿\test5\test5.4\test5.4.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt test5.4.cpp
+         test5.4.cpp
+     1>f:\编程\潭州教育\草稿\test5\test5.4\test5.4.cpp(32): error C2601: “main”: 本地函数定义是非法的
+                 f:\编程\潭州教育\草稿\test5\test5.4\test5.4.cpp(10):  此行有一个“{”没有匹配项
+     1>f:\编程\潭州教育\草稿\test5\test5.4\test5.4.cpp(53): error C2601: “main”: 本地函数定义是非法的
+                 f:\编程\潭州教育\草稿\test5\test5.4\test5.4.cpp(10):  此行有一个“{”没有匹配项
+     1>c:\program files (x86)\microsoft visual studio 12.0\vc\include\yvals.h(205): warning C4384: #pragma“detect_mismatch”只应用在全局范围上
+     1>c:\program files (x86)\microsoft visual studio 12.0\vc\include\yvals.h(209): warning C4384: #pragma“detect_mismatch”只应用在全局范围上
+     1>c:\program files (x86)\microsoft visual studio 12.0\vc\include\yvals.h(220): warning C4384: #pragma“detect_mismatch”只应用在全局范围上
+     1>c:\program files (x86)\microsoft visual studio 12.0\vc\include\yvals.h(568): error C2870: “std”: 命名空间定义必须出现在文件范围内或紧接着出现在另一命名空间定义内
+     1>c:\program files (x86)\microsoft visual studio 12.0\vc\include\yvals.h(619): error C2870: “std”: 命名空间定义必须出现在文件范围内或紧接着出现在另一命名空间定义内
+     1>c:\program files (x86)\microsoft visual studio 12.0\vc\include\math.h(27): error C2598: 链接规范必须在全局范围内
+     1>c:\program files (x86)\microsoft visual studio 12.0\vc\include\math.h(37): fatal error C1903: 无法从以前的错误中恢复；正在停止编译
+     1>已完成生成项目“F:\编程\潭州教育\草稿\test5\test5.4\test5.4.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.17
