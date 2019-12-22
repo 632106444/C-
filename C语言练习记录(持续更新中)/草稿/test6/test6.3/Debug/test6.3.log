@@ -1,0 +1,16 @@
+﻿生成启动时间为 2019/10/8 0:51:42。
+     1>项目“F:\编程\潭州教育\草稿\test6\test6.3\test6.3.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt test6.3.c
+         test6.3.c
+     1>f:\编程\潭州教育\草稿\test6\test6.3\test6.3.c(7): warning C4996: 'gets': This function or variable may be unsafe. Consider using gets_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(254) : 参见“gets”的声明
+     1>f:\编程\潭州教育\草稿\test6\test6.3\test6.3.c(9): warning C4013: “strlen”未定义；假设外部返回 int
+     1>f:\编程\潭州教育\草稿\test6\test6.3\test6.3.c(9): error C2143: 语法错误 : 缺少“;”(在“)”的前面)
+     1>f:\编程\潭州教育\草稿\test6\test6.3\test6.3.c(11): error C2106: “=”: 左操作数必须为左值
+     1>f:\编程\潭州教育\草稿\test6\test6.3\test6.3.c(23): error C2137: 空字符常量
+     1>已完成生成项目“F:\编程\潭州教育\草稿\test6\test6.3\test6.3.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.53
