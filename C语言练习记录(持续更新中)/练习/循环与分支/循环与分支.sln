@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "循环与分支", "循环与分支\循环与分支.vcxproj", "{82A23668-9E0B-4A31-9BF7-30B3F33D5793}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "运算符与表达式", "..\运算符与表达式\运算符与表达式.vcxproj", "{43FF06EC-8838-47EC-9306-5914A9612B41}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "tuang", "tuang\tuang.vcxproj", "{30056A72-B3A3-445F-9582-B986E625EF37}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{82A23668-9E0B-4A31-9BF7-30B3F33D5793}.Debug|Win32.ActiveCfg = Debug|Win32
+		{82A23668-9E0B-4A31-9BF7-30B3F33D5793}.Debug|Win32.Build.0 = Debug|Win32
+		{82A23668-9E0B-4A31-9BF7-30B3F33D5793}.Release|Win32.ActiveCfg = Release|Win32
+		{82A23668-9E0B-4A31-9BF7-30B3F33D5793}.Release|Win32.Build.0 = Release|Win32
+		{43FF06EC-8838-47EC-9306-5914A9612B41}.Debug|Win32.ActiveCfg = Debug|Win32
+		{43FF06EC-8838-47EC-9306-5914A9612B41}.Debug|Win32.Build.0 = Debug|Win32
+		{43FF06EC-8838-47EC-9306-5914A9612B41}.Release|Win32.ActiveCfg = Release|Win32
+		{43FF06EC-8838-47EC-9306-5914A9612B41}.Release|Win32.Build.0 = Release|Win32
+		{30056A72-B3A3-445F-9582-B986E625EF37}.Debug|Win32.ActiveCfg = Debug|Win32
+		{30056A72-B3A3-445F-9582-B986E625EF37}.Debug|Win32.Build.0 = Debug|Win32
+		{30056A72-B3A3-445F-9582-B986E625EF37}.Release|Win32.ActiveCfg = Release|Win32
+		{30056A72-B3A3-445F-9582-B986E625EF37}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
